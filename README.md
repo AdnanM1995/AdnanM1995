@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adnan Almarzooq. I'm a software engineer graduate from WOU.
 - 👀 I’m interested in Full stack devolopment. 
 - 🌱 I’m currently learning .NET framework.
-- 💞️ I’m looking to collaborate on creating Web Apps.
+- 💞️ I’m looking to collaborate on creating web apps.
 - 📫 email me at aalmarzooq18@wou.edu
 
 <!---
