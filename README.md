@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adnan Almarzooq. I'm a software engineer graduate from WOU.
-- 👀 I’m interested in Full stack devolopment. 
-- 🌱 I’m currently learning .NET framework.
+- 👀 I’m a full stack devoloper. 
+- 🌱 I’m currently learning .NET framework, React, and angular.
 - 💞️ I’m looking to collaborate on creating web apps.
-- 📫 email me at aalmarzooq18@wou.edu
+- 📫 you can reach me at aalmarzooq18@wou.edu or almarzooq.adnan@gmail.com
 
 <!---
 AdnanM1995/AdnanM1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
